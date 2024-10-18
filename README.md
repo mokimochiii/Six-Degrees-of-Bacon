@@ -1,1 +1,1 @@
-# NQueens
+# Six Degrees of Bacon
